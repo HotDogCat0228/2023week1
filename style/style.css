@@ -1,14 +1,22 @@
 body{
     line-height: 1.5;
+    font-family: 'Castoro', serif;
 }
 img{
     display: block;
     max-width: 100%;
     height: auto;
 }
+a{
+    display: block;
+}
+ul{
+    list-style: none;
+}
 
 .container{
     max-width: 1296px;
+    margin: 0 auto;
 }
 .bg-secondary{
     background-color: #EFEFEF;
@@ -30,6 +38,9 @@ img{
 }
 .mx-auto{
     margin: 0 auto;
+}
+.letter-spacer-12{
+    letter-spacing: 12%;
 }
 .ms-auto{
     margin-left: auto;
