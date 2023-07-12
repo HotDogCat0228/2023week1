@@ -40,7 +40,7 @@ ul{
     margin: 0 auto;
 }
 .letter-spacer-12{
-    letter-spacing: 12%;
+    letter-spacing: 12px;
 }
 .ms-auto{
     margin-left: auto;
@@ -82,6 +82,9 @@ ul{
 }
 .fs-128{
     font-size: 128px;
+}
+.fs-0{
+    font-size: 0;
 }
 .fs-20{
     font-size: 20px;
